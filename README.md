@@ -1,3 +1,3 @@
 # aula_dio
 
-Projeto de testa para aula Dio.
+Projeto de teste para aula Dio.
